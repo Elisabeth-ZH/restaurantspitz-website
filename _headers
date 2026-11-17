@@ -1,4 +1,6 @@
 /*
+  # VORSCHAU: noindex, damit Google die Testseite nicht neben der echten Seite aufnimmt. Beim Livegang entfernen.
+  X-Robots-Tag: noindex, nofollow
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin

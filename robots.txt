@@ -1,4 +1,3 @@
+# VORSCHAU: Beim Livegang ersetzen durch "Allow: /" und Sitemap-Zeile
 User-agent: *
-Allow: /
-
-Sitemap: https://restaurantspitz.ch/sitemap.xml
+Disallow: /
